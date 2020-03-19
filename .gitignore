@@ -24,3 +24,9 @@ coverage
 build/
 dist/
 
+# public/dist/index.html
+# public/dist/bundle.js
+
+
+
+
